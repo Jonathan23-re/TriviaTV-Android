@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.TriviaTV" parent="@style/Theme.Leanback" />
+</resources>
